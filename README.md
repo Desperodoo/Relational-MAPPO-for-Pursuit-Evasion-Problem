@@ -1,6 +1,9 @@
 # Relational-MAPPO-for-Pursuit-Evasion-Problem
 Version Control
 
+# mappo_outlier_punish_reward
+MAPPO + Outlier Negative Reward
+
 # mappo_lag_obs_differ_3hop
 MAPPO-Lagrangian + Algebraic Connectivity Punish
 
